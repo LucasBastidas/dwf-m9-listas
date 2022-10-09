@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "airtable": "^0.11.5",
+    "algoliasearch": "^4.14.2",
+    "dotenv": "^16.0.3",
+    "micro": "^9.4.1",
+    "micro-method-router": "^0.1.0",
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "listas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LucasBastidas/vercel-public-directory.git",
+  "author": "Lucas Bastidas <lucaasbastidas@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.23",
+    "@types/react": "18.0.21",
+    "typescript": "4.8.4"
+  }
+}
